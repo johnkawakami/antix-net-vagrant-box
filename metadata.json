@@ -1,0 +1,29 @@
+{
+  "name": "johnk/antix-net",
+  "description": "AntiX Linux, 64 bit. Heather Heyer.",
+  "versions": [
+    {
+      "version": "0.0.1",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "file:///home/johnk/projects/antix-base-box/johnk-antix-base-0.0.1.box",
+          "checksum_type": "sha1",
+          "checksum": "foo"
+        }
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "file:///home/johnk/projects/antix-base-box/johnk-antix-net-0.1.0.box",
+          "checksum_type": "sha1",
+          "checksum": "cf27e8e84477a3884ef12925f454adc5e99dd580"
+        }
+      ]
+    }
+  ]
+}
+

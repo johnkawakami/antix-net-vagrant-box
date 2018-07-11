@@ -1,0 +1,4 @@
+vagrant.private
+authorized_keys
+*.box
+.vagrant
